@@ -1,0 +1,5 @@
+{
+  "build_from": {
+    "amd64": "ghcr.io/ihost-open-source-project/hassio-ihost-ewelink-remote-amd64:0.3.1"
+  }
+}
